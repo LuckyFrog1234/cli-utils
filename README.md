@@ -1,2 +1,2 @@
 # cli-utils
-Common command-line utility scripts and tools.
+Handy CLI utility scripts for sandbox workflows.
