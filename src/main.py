@@ -1,4 +1,4 @@
-# Main CLI utility code
+# Added formatting support
 
 def main():
-    print('cli-utils')
+    print('cli-utils v1.2')
